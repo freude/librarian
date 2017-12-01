@@ -1,3 +1,3 @@
 # librarian
 
-The script orginizes ebooks in a directory making a structured library from a bunch of files. 
+The application makes a structured library from a bunch of files using a text classifier. 
